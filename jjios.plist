@@ -11,7 +11,7 @@
 <key>kind</key>
 <string>software-package</string>
 <key>url</key>
-<string>http://13.209.225.187:8080/download/nestgame_ios.ipa</string>
+<string>http://download.jjzxyz.club/nestgame_ios.ipa</string>
 </dict>
 <dict>
 <key>kind</key>
@@ -19,7 +19,7 @@
 <key>needs-shine</key>
 <true/>
 <key>url</key>
-<string>http://13.209.225.187:8080/download/iphone-2x.png</string>
+<string>http://download.jjzxyz.club/iphone-2x.png</string>
 </dict>
 </array>
 <key>metadata</key>
